@@ -25,7 +25,7 @@ Este año voy a tener la oportunidad de dar charlas en colegios y quiero que sal
 
 ## Como colaborar?
 - Clonar el repo
-- Elegir un tópico
+- Elegir un tópico en `developers-world-talk/topics`
 - Armar un branch
 - Investigar al respecto
 - Agregar información al archivo correspondiente
